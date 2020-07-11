@@ -1,3 +1,5 @@
+> From <https://www.jsdelivr.com/package/npm/docsify-toc> v1.0.2
+
 # Docsify Table of Contents
 
 <p align="center">
